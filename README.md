@@ -43,18 +43,6 @@ March showed the highest booking increase, suggesting effective seasonal campaig
 
 ---
 
-## 📈 Business Value Delivered
-
-This analysis enabled:
-
-• Measurement of campaign ROI  
-• Identification of high-response demographic segments  
-• Seasonal performance comparison  
-• Strategic targeting recommendations  
-• Data-driven decision making  
-
----
-
 ## 🛠 Technical Implementation
 
 - Star Schema Data Model
